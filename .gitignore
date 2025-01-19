@@ -7,3 +7,4 @@ main*.*
 !.git*
 
 indent.log
+.DS_Store
